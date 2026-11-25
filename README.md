@@ -1,2 +1,2 @@
-## Olá! Eu sou Renata ⁜
+## Olá! Eu sou Renata ☆
 
