@@ -13,46 +13,39 @@ Em constante aprendizado, descobrindo novas possibilidades através da tecnologi
 - Explorando conceitos de Inteligência Artificial.
 
 ---
+</div>---
 
-02. Technologies & Tools
+<h3 align="center">01 / ABOUT ME</h3><p align="center">
+Estudante da <b>EEEP Maria Carmem</b>, cursando o Ensino Médio integrado ao técnico em <b>Desenvolvimento de Sistemas</b>.
+</p><p align="center">
+Atualmente explorando o universo da programação, hardware e inteligência artificial. Construindo conhecimentos e desenvolvendo minhas habilidades na tecnologia.
+</p><div align="center">"Student"   "Tech Enthusiast"   "Always Learning"
 
-<div align="center">Programming Languages
+</div>---
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" /><img src="https://img.shields.io/badge/Portugol-CBA6F7?style=for-the-badge" /><br/><br/>
+<h3 align="center">02 / TECH STACK</h3><div align="center">Programming Languages
 
-Tools
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/><img src="https://img.shields.io/badge/Portugol-CBA6F7?style=flat-square&logoColor=white" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" height="40" /><br/><br/>
+Tools & Interests
 
-Areas of Interest
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" height="38"/><br/><img src="https://img.shields.io/badge/Hardware-313244?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-313244?style=flat-square"/>
+<img src="https://img.shields.io/badge/Programming_Logic-313244?style=flat-square"/></div>---
 
-<img src="https://img.shields.io/badge/Hardware-313244?style=flat-square" />
-<img src="https://img.shields.io/badge/Artificial_Intelligence-313244?style=flat-square" />
-<img src="https://img.shields.io/badge/Programming_Logic-313244?style=flat-square" /></div>---
-
-03. What I'm learning
-
-Area| Focus
+<h3 align="center">03 / WHAT I'M LEARNING</h3><div align="center">Area| Focus
 Python| Programming fundamentals
 Portugol| Algorithms and logic
 Hardware| Computer architecture
 AI| Artificial Intelligence
 
----
+</div>---
 
-04. My goals
+<h3 align="center">04 / MY GOALS</h3><div align="center">Desenvolver projetos próprios, aprimorar minha lógica de programação, explorar novas tecnologias e construir uma carreira na área de desenvolvimento de sistemas.
 
-- Aprimorar meus conhecimentos em programação.
-- Desenvolver projetos próprios.
-- Aprofundar meus estudos em hardware.
-- Explorar novas tecnologias.
-- Evoluir como desenvolvedora.
+</div>---
 
----
-
-05. GitHub Statistics
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4" width="48%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=cba6f7&text_color=cdd6f4" width="48%" /></div>---
+<h3 align="center">05 / GITHUB ANALYTICS</h3><div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=cba6f7&text_color=cdd6f4"/></div>---
 
 <div align="center">♡ A little reminder
 
@@ -60,7 +53,10 @@ AI| Artificial Intelligence
 
 STRAY KIDS — SOCIAL PATH
 
-<br/><sub>Thanks for visiting my profile! ♡</sub>
+</div>---
+
+<div align="center"><sub>Thanks for visiting my profile! ♡</sub>
 
 </div>
+
 
