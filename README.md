@@ -70,23 +70,6 @@ Other interests
 
 ---
 
-<h3 align="center">⌘ GitHub Statistics</h3><div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&title_color=d8a7e8&icon_color=d8a7e8&text_color=ffffff&bg_color=0d1117" /><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&title_color=d8a7e8&text_color=ffffff&bg_color=0d1117" /><br/><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&background=0D1117&ring=D8A7E8&fire=D8A7E8&currStreakLabel=D8A7E8" /></div>---
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=d8a7e8&animation=fadeIn" width="100%" /><sub><i>“Great things are built one step at a time.”</i></sub>
-
-♡
-
-</div>
-
-
-
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=150&section=header&text=Renata%20Cazuza&fontSize=40&fontColor=cba6f7&fontAlignY=45&desc=Information%20Technology%20Student&descAlignY=70&descSize=15" width="100%" /><br/>Welcome to my GitHub!
-
-"Student" · "Tech Enthusiast" · "Always Learning"
-
-</div>---
-
 01. About me
 
 Olá! Sou estudante da EEEP Maria Carmem, cursando o Ensino Médio integrado ao técnico em Desenvolvimento de Sistemas.
