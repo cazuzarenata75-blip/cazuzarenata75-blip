@@ -6,46 +6,125 @@ Information Technology Student
 Em constante aprendizado, descobrindo novas possibilidades através da tecnologia.
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3000&pause=1000&color=D8A7E8&center=true&vCenter=true&width=435&lines=Learning+something+new+every+day;Exploring+the+world+of+technology;Turning+ideas+into+knowledge" /></div>---
+<div align="center">
 
-- Estudando Python e Portugol.
-- Aprendendo lógica de programação e algoritmos.
-- Interessada em hardware e arquitetura de computadores.
-- Explorando conceitos de Inteligência Artificial.
+### ♡ About me
+
+</div>
+
+Olá! Sou estudante da **EEEP Maria Carmem**, cursando o Ensino Médio integrado ao técnico em **Desenvolvimento de Sistemas**.
+
+Atualmente, estou desenvolvendo meus conhecimentos em programação, hardware e inteligência artificial. Gosto de aprender coisas novas, explorar tecnologias e descobrir como transformar ideias em soluções.
+
+- ୨ৎ Atualmente estudando Python e Portugol.
+- ୨ৎ Aprendendo lógica de programação e algoritmos.
+- ୨ৎ Interessada em hardware e arquitetura de computadores.
+- ୨ৎ Explorando conceitos de Inteligência Artificial.
+- ୨ৎ Sempre buscando novos conhecimentos e oportunidades para evoluir.
 
 ---
-</div>---
 
-<h3 align="center">01 / ABOUT ME</h3><p align="center">
-Estudante da <b>EEEP Maria Carmem</b>, cursando o Ensino Médio integrado ao técnico em <b>Desenvolvimento de Sistemas</b>.
-</p><p align="center">
-Atualmente explorando o universo da programação, hardware e inteligência artificial. Construindo conhecimentos e desenvolvendo minhas habilidades na tecnologia.
-</p><div align="center">"Student"   "Tech Enthusiast"   "Always Learning"
+<div align="center">
 
-</div>---
+### ⌘ Technologies & Tools
 
-<h3 align="center">02 / TECH STACK</h3><div align="center">Programming Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/><img src="https://img.shields.io/badge/Portugol-CBA6F7?style=flat-square&logoColor=white" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" />
 
-Tools & Interests
+<br/>
 
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" height="38"/><br/><img src="https://img.shields.io/badge/Hardware-313244?style=flat-square"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-313244?style=flat-square"/>
-<img src="https://img.shields.io/badge/Programming_Logic-313244?style=flat-square"/></div>---
+<img src="https://img.shields.io/badge/Portugol-6C547B?style=for-the-badge" />
 
-<h3 align="center">03 / WHAT I'M LEARNING</h3><div align="center">Area| Focus
-Python| Programming fundamentals
-Portugol| Algorithms and logic
-Hardware| Computer architecture
-AI| Artificial Intelligence
+<br/><br/>
 
-</div>---
+**Other interests**
 
-<h3 align="center">04 / MY GOALS</h3><div align="center">Desenvolver projetos próprios, aprimorar minha lógica de programação, explorar novas tecnologias e construir uma carreira na área de desenvolvimento de sistemas.
+<img src="https://img.shields.io/badge/Hardware-765B85?style=flat-square" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-765B85?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Programming_Logic-765B85?style=flat-square" />
 
-</div>---
+<br/><br/>
 
-<h3 align="center">05 / GITHUB ANALYTICS</h3><div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=cba6f7&text_color=cdd6f4"/></div>---
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
+
+</div>
+
+---
+
+### ୨୧ My interests
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+💻
+
+**Programming**
+
+<sub>Logic & development</sub>
+
+</td>
+<td align="center" width="50%">
+
+🖥️
+
+**Hardware**
+
+<sub>Computer architecture</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+🤖
+
+**Artificial Intelligence**
+
+<sub>Technology & innovation</sub>
+
+</td>
+<td align="center" width="50%">
+
+📚
+
+**Learning**
+
+<sub>Knowledge & discovery</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### ✧ My goals
+
+- Aprimorar meus conhecimentos em programação.
+- Desenvolver projetos próprios.
+- Aprofundar meus estudos em hardware.
+- Explorar novas tecnologias.
+- Evoluir como desenvolvedora.
+
+---
+
+<div align="center">
+
+### ⌘ GitHub Statistics
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&title_color=d8a7e8&icon_color=d8a7e8&text_color=ffffff&bg_color=0d1117" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&title_color=d8a7e8&text_color=ffffff&bg_color=0d1117" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&background=0D1117&ring=D8A7E8&fire=D8A7E8&currStreakLabel=D8A7E8" />
+
+<br/><br/>
+
+<sub><i>“Great things are built one step at a time.”</i></sub>
+
 
 <div align="center">♡ A little reminder
 
