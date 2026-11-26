@@ -7,7 +7,7 @@
 Estudante da <b>EEEP Maria Carmem</b>, cursando o Ensino Médio integrado ao técnico em <b>Desenvolvimento de Sistemas</b>.
 </p><p align="center">
 Atualmente explorando o universo da programação, hardware e inteligência artificial. Construindo conhecimentos e desenvolvendo minhas habilidades na tecnologia.
-</p><div align="center">"Student"   "Tech Enthusiast"   "Always Learning"
+</p><div align="center">"Student"   "Tech Enthusiast"   "Always Learning"            
 
 </div>---
 
