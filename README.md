@@ -1,4 +1,5 @@
-## <div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=160&section=header&text=Renata%20Cazuza&fontSize=40&fontColor=cba6f7&animation=fadeIn&fontAlignY=45&desc=Information%20Technology%20Student&descAlignY=68&descSize=15" width="100%" /><br/>""Typing SVG" (https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=450&lines=Hello%2C+World!;Welcome+to+my+GitHub;Always+learning+something+new)" (https://git.io/typing-svg)
+## 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=160&section=header&text=Renata%20Cazuza&fontSize=40&fontColor=cba6f7&animation=fadeIn&fontAlignY=45&desc=Information%20Technology%20Student&descAlignY=68&descSize=15" width="100%" /><br/>""Typing SVG" (https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=450&lines=Hello%2C+World!;Welcome+to+my+GitHub;Always+learning+something+new)" (https://git.io/typing-svg)
 
 </div>---
 
