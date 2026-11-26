@@ -111,21 +111,6 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação, hardware e 
 
 <div align="center">
 
-### ⌘ GitHub Statistics
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&title_color=d8a7e8&icon_color=d8a7e8&text_color=ffffff&bg_color=0d1117" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&title_color=d8a7e8&text_color=ffffff&bg_color=0d1117" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&background=0D1117&ring=D8A7E8&fire=D8A7E8&currStreakLabel=D8A7E8" />
-
-<br/><br/>
-
-<sub><i>“Great things are built one step at a time.”</i></sub>
-
-
 <div align="center">♡ A little reminder
 
 “Gave up my youth for my future.”
