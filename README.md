@@ -1,19 +1,11 @@
 ## 
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=130&section=header&text=Renata%20Cazuza&fontSize=42&fontColor=d8a7e8&fontAlignY=50&animation=fadeIn" width="100%" /><br/>୨ৎ Welcome to my profile!
 
-# Renata Cazuza
-
-### Welcome to my profile!
-
-**Information Technology Student**
+Information Technology Student
 
 Em constante aprendizado, descobrindo novas possibilidades através da tecnologia.
 
-</div>
-
----
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3000&pause=1000&color=D8A7E8&center=true&vCenter=true&width=435&lines=Learning+something+new+every+day;Exploring+the+world+of+technology;Turning+ideas+into+knowledge" /></div>---
 
 ### ♡ About me
 
