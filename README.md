@@ -12,7 +12,7 @@ Em constante aprendizado, descobrindo novas possibilidades através da tecnologi
 
 </div>
 
-Olá! Sou estudante da **EEEP Maria Carmem**, cursando o Ensino Médio integrado ao técnico em **Desenvolvimento de Sistemas**.
+Olá! Tenho 15 anos e sou estudante da **EEEP Maria Carmem**, cursando o Ensino Médio integrado ao técnico em **Desenvolvimento de Sistemas**.
 
 Atualmente, estou desenvolvendo meus conhecimentos em programação, hardware e inteligência artificial. Gosto de aprender coisas novas, explorar tecnologias e descobrir como transformar ideias em soluções.
 
@@ -49,53 +49,6 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação, hardware e 
 <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
 
 </div>
-
----
-
-### ୨୧ My interests
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-💻
-
-**Programming**
-
-<sub>Logic & development</sub>
-
-</td>
-<td align="center" width="50%">
-
-🖥️
-
-**Hardware**
-
-<sub>Computer architecture</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-🤖
-
-**Artificial Intelligence**
-
-<sub>Technology & innovation</sub>
-
-</td>
-<td align="center" width="50%">
-
-📚
-
-**Learning**
-
-<sub>Knowledge & discovery</sub>
-
-</td>
-</tr>
-</table>
 
 ---
 
